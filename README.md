@@ -2,7 +2,7 @@ Olá!
 
 <div>
   <a href="https://github.com/Eduardo-Bocon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Bocon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Bocon&theme=dark" alt="Eduardo-Bocon" /></p>
 </div>
 
 ##
