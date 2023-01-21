@@ -2,7 +2,8 @@ Olá!
 
 <div>
   <a href="https://github.com/Eduardo-Bocon">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Bocon&theme=dark" alt="Eduardo-Bocon" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Bocon&theme=dark" alt="Eduardo-Bocon" />
+  
 </div>
 
 ##
