@@ -19,5 +19,8 @@
   
  <div>
 <h2> Programador da </h2>
-  <a href="https://frc5800.com/"><img align="center" alt="Java" height="70" width="130" src="https://frc5800.com/wp-content/uploads/2018/12/Logo_Horizontal_Branco-2.png" alt="FRC5800" </a>
+  <a href="https://frc5800.com/"><img align="center" alt="FRC5800" height="70" width="130" src="https://frc5800.com/wp-content/uploads/2018/12/Logo_Horizontal_Branco-2.png" alt="FRC5800" </a>
+ </div>
+   <h2> Estudante de Sistemas de Informação na </h2>
+  <a href="https://ufsc.br/"><img align="center" alt="UFSC" height="80" width="350" src="https://identidade.ufsc.br/files/2017/10/horizontal_fundo_claro.png"" alt="UFSC" </a>
  </div>
